@@ -1,21 +1,15 @@
 # 🎮 Plataforma 2D — Godot Engine 4
 
-Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositório regista a evolução do projeto, incluindo a estruturação de cenários, scripts de física, mapeamento de controlos e mecânicas do jogador.
+Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositório registra a evolução do projeto, incluindo a estruturação de cenários, scripts de física, mapeamento de controlos e mecânicas do jogador.
 
 ---
 
 ## 📸 Screenshots do Jogo
 
 <p align="center">
-  <img src="assets/cen<img width="1910" height="980" alt="Captura de tela 2026-10-28 133756" src="https://github.com/user-attachments/assets/f89d4923-725e-4101-af91-1efa4d68b36e" />
-ario1.png" width="48%" alt="Cenário Floresta e Casa" />
-
+  <img src="assets/cenario1.png" width="48%" alt="Cenário Floresta e Casa" />
   <img src="assets/cenario2.png" width="48%" alt="Cenário Praia e Céu Azul" />
-
-
-<img width="1901" height="968" alt="Captura de tela 2026-10-28 133847" src="https://github.com/user-attachments/assets/bb9f80dd-e6f9-44c4-a71c-71257807943e" />
 </p>
-
 
 ---
 
