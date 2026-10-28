@@ -6,8 +6,8 @@ Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositó
 
 ## 📸 Screenshots do Jogo
 
-<img width="822" height="633" alt="Captura de tela 2026-10-28 135540" src="https://github.com/user-attachments/assets/c63d4553-2cca-4eb7-9f30-60f1b1cd5098" />
-<img width="894" height="556" alt="Captura de tela 2026-10-28 135528" src="https://github.com/user-attachments/assets/8cb93f9f-d32e-4cec-ba6f-1c7e0df7b293" />
+<img width="500" height="300" alt="Captura de tela 2026-10-28 135540" src="https://github.com/user-attachments/assets/c63d4553-2cca-4eb7-9f30-60f1b1cd5098" /> <img width="500" height="300" alt="Captura de tela 2026-10-28 135528" src="https://github.com/user-attachments/assets/8cb93f9f-d32e-4cec-ba6f-1c7e0df7b293" />
+
 
 
 ---
