@@ -7,9 +7,15 @@ Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositó
 ## 📸 Screenshots do Jogo
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/4609a4d024e43175/IQC9xBBxeuZATo968sFTNED2AfOiV9DCPMPmFwcQdkILaps?e=WWY3hE" width="48%" alt="Cenário Floresta e Casa" />
-  <img src="https://1drv.ms/i/c/4609a4d024e43175/IQDo9-tjTUS7SLRTxawzUltDAb9c7rUuaujPrU9m9m6u9m8?e=dVGC9T" width="48%" alt="Cenário Praia e Céu Azul" />
+  <img src="assets/cen<img width="1910" height="980" alt="Captura de tela 2026-10-28 133756" src="https://github.com/user-attachments/assets/f89d4923-725e-4101-af91-1efa4d68b36e" />
+ario1.png" width="48%" alt="Cenário Floresta e Casa" />
+
+  <img src="assets/cenario2.png" width="48%" alt="Cenário Praia e Céu Azul" />
+
+
+<img width="1901" height="968" alt="Captura de tela 2026-10-28 133847" src="https://github.com/user-attachments/assets/bb9f80dd-e6f9-44c4-a71c-71257807943e" />
 </p>
+
 
 ---
 
