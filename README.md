@@ -1,25 +1,34 @@
 # 🎮 Plataforma 2D — Godot Engine 4
 
-Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositório registra a evolução do projeto, abrangendo a estruturação de cenas, scripts de física, configuração de colisões e mapeamento de controles.
+Jogo de plataforma 2D desenvolvido do zero na **Godot Engine 4**. Este repositório regista a evolução do projeto, incluindo a estruturação de cenários, scripts de física, mapeamento de controlos e mecânicas do jogador.
+
+---
+
+## 📸 Screenshots do Jogo
+
+<p align="center">
+  <img src="https://1drv.ms/i/c/4609a4d024e43175/IQC9xBBxeuZATo968sFTNED2AfOiV9DCPMPmFwcQdkILaps?e=WWY3hE" width="48%" alt="Cenário Floresta e Casa" />
+  <img src="https://1drv.ms/i/c/4609a4d024e43175/IQDo9-tjTUS7SLRTxawzUltDAb9c7rUuaujPrU9m9m6u9m8?e=dVGC9T" width="48%" alt="Cenário Praia e Céu Azul" />
+</p>
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O projeto consiste em uma base para jogos de plataforma em pixel art / 2D, focando em uma movimentação fluida para o jogador, organização limpa de nós no ecossistema da Godot e gerenciamento otimizado de colisões.
+O projeto é uma base para jogos de plataforma em *pixel art*, focando numa movimentação fluida do jogador, na organização limpa de nós (*nodes*) na Godot 4 e na gestão otimizada de colisões para diferentes elementos do mapa.
 
 ---
 
 ## 🚀 Recursos e Funcionalidades
 
 * 🏃 **Movimentação do Jogador**: Mecânicas integradas para caminhar, pular e agachar.
-* 🎯 **Matriz de Colisões 2D**: Camadas de física (Physics Layers) configuradas para:
+* 🎯 **Matriz de Colisões 2D**: Camadas de física (*Physics Layers*) configuradas para:
   * `Layer 1`: Terreno (`terrain`)
   * `Layer 2`: Jogador (`player`)
   * `Layer 3`: Inimigos (`enemies`)
   * `Layer 4`: Fim de fase (`level_end`)
-* 📱 **Resolução e Pixel Art**: Viewport configurado em `400x208` com filtro de textura padrão desativado (Nearest/Pixel Perfect).
-* ⚙️ **Física**: Suporte e otimização configurados para a Godot 4.6.
+* 📱 **Resolução e Pixel Art**: Viewport configurado em `400x208` com filtro de textura padrão desativado (Nearest / Pixel Perfect).
+* ⚙️ **Física**: Suporte e otimizações configuradas para a Godot 4.6.
 
 ---
 
@@ -44,7 +53,7 @@ O projeto consiste em uma base para jogos de plataforma em pixel art / 2D, focan
 
 ## 💻 Como Executar o Projeto Localmente
 
-1. Certifique-se de ter a **Godot Engine 4.x** instalada em seu computador.
-2. Clone este repositório:
+1. Certifica-te de ter a **Godot Engine 4.x** instalada no teu computador.
+2. Clona este repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/godot-2d-platformer.git](https://github.com/SEU_USUARIO/godot-2d-platformer.git)
